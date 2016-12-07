@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-brand h1 {
+	margin-top:  0px;
+}
+
+#header-nav {
+	padding-bottom: 20px;
+}
+
+#nav-list {
+  margin-top: 10px;
+  background: #97caf4;
+
+}
+#nav-list a {
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#collapsable-nav{
+margin-right: 30px;
+}
+
+ button.navbar-toggle, .icon-bar {
+  border: 1px solid #61122f;
+}
+button.navbar-toggle {
+  clear: both;
+ margin-top: -30px;
+  margin-right: 40px;
+}
+
+/*button.navbar-toggle{
+  clear:both;
+  margin-top: -38px;
+  margin-right: 20px;
+}*/
